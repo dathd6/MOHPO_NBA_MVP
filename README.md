@@ -1,4 +1,4 @@
-# Hyperparameter Multi-objective optimization for Support Vector Regression (SVR) Machine Learning (ML) Regression Algorithm
+# Hyperparameter Multi-objective optimization for Gradient Boosting Regression (GBR) Machine Learning (ML) Regression Algorithm
 
 3 objectives to optimize:
 
